@@ -19,6 +19,6 @@ https://youtu.be/cXVKLcQAcq8
 
 la victima tiene que montar un servidor apache en la ruta donde estan los archivos index y php 
 
-FUNCIONA BIEN DENTRO DE LA RED LOCAL, AFUERA DE LA RED Y FUERA DE LA RED
+FUNCIONA BIEN DENTRO DE LA RED LOCAL, Y AFUERA DE LA RED
 
-Díganlen que es una pagina para tener diamantes de frefire, algo así jejej. Disfruteis!!!
+Díganlen que es una pagina para tener diamantes de frefire, algo así jejej. Disfruteis!!!.
