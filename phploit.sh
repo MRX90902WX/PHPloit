@@ -73,7 +73,7 @@ setterm -foreground green
 echo "-----------------------------"
 echo -e "\e[1;32m|\e[0m\e[1;36m Escoje cual opcion deseas:\e[0m\e[1;32m |\e[0m"
 setterm -foreground green
-echo "---------------------------------------------"
+echo "--------------------------------------------"
 setterm -foreground green
 echo -e "\e[1;32m|\e[0m\e[1;35m [1].\e[0m\e[1;36mInyectar backdoor en pagina Freefire\e[0m\e[1;32m |\e[0m"
 echo -e "\e[1;32m|\e[0m\e[1;35m [2].\e[0m\e[1;36mInyectar backdoor en pagina Encuesta\e[0m \e[1;32m|\e[0m"
