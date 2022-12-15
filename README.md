@@ -17,8 +17,12 @@ VIDEO DE COMO USARLO
 
 https://youtu.be/cXVKLcQAcq8
 
-la victima tiene que montar un servidor apache en la ruta donde estan los archivos index y php 
+la victima tiene que montar un servidor apache en la ruta donde estan los archivos index y php jpg jpeg png
 
 FUNCIONA BIEN DENTRO DE LA RED LOCAL, Y AFUERA DE LA RED
 
-Díganlen que es una pagina para tener diamantes de frefire, algo así jejej. Disfruteis!!!.
+Si escojes la opción 1
+Díganlen que es una pagina para tener diamantes de frefire, algo así jejej. Disfruteis!!!
+
+Si escojes la opción 2
+Díganlen que es una pagina de encuesta que mi colegio me mandó, ayúdame  algo así jejej. Disfruteis!!!.
