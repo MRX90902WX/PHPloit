@@ -21,6 +21,8 @@ la victima tiene que montar un servidor apache en la ruta donde estan los archiv
 
 FUNCIONA BIEN DENTRO DE LA RED LOCAL, Y AFUERA DE LA RED
 
+Recuerda tener instalado metasploit en tu termux
+
 Si escojes la opción 1
 Díganlen que es una pagina para tener diamantes de frefire, algo así jejej. Disfruteis!!!
 
