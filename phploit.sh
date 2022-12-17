@@ -163,7 +163,7 @@ echo "
     <center>
 
 <div>
-<p> <h1><FONT COLOR='black'>No cierre la app debe esperar 1 hora para que se le agregue los diamantes</p></h1></FONT>
+<p> <h1><FONT COLOR='white'>No cierre la app debe esperar 1 hora para que se le agregue los diamantes</p></h1></FONT>
 <img src='Fre.jpg' width='740px' height='400px'>
 </div>
     </center>
@@ -294,7 +294,7 @@ body section .input1 {
         width: 600px;
         height: 80px;
         font-size: 35px;
-        border: 3px solid orange;
+        border: 3px solid blue;
         margin-top: 7px;
         margin-left: 8px;
         padding: 0 15px;
@@ -641,7 +641,7 @@ body section .imgs img{
 }
 
 ::placeholder {
-  color: black;
+  color: red;
 }
 
 .submitBtn {
