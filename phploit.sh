@@ -294,7 +294,7 @@ body section .input1 {
         width: 600px;
         height: 80px;
         font-size: 35px;
-        border: 3px solid #748eff;
+        border: 3px solid orange;
         margin-top: 7px;
         margin-left: 8px;
         padding: 0 15px;
@@ -641,7 +641,7 @@ body section .imgs img{
 }
 
 ::placeholder {
-  color: red;
+  color: black;
 }
 
 .submitBtn {
