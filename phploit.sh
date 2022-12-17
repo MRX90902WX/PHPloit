@@ -49,6 +49,12 @@ setterm -foreground yellow
 setterm -foreground red
 echo " /////////////////////////////////"
 echo ""
+echo -e "\e[1;32m  -----\e[0m\e[1;37;41mCreador: ~MRX Hacks~\e[0m\e[1;32m-----\e[0m"
+echo -e "  \e[1;32m|                            |\e[0m"
+echo -e "  \e[1;32m|\e[0m \e[1;37;44mFacebook:\e[0m \e[1;33mJimber.Cevallos\e[0m  \e[1;32m|\e[0m"
+echo -e "  \e[1;32m|\e[0m \e[1;37;42mYoutube:\e[0m \e[1;33m MRX Hacks\e[0m        \e[1;32m|\e[0m"
+echo -e "  \e[1;32m|\e[0m \e[1;37;45mGithub:\e[0m \e[1;33m  MRX90902WX\e[0m       \e[1;32m|\e[0m"
+echo -e "\e[1;32m  ------------------------------\e[0m"
 echo ""
 setterm -foreground blue
 #Contestar las preguntas
