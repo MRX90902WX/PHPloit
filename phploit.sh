@@ -164,7 +164,7 @@ echo "
 
 <div>
 <p> <h1><FONT COLOR='black'>No cierre la app debe esperar 1 hora para que se le agregue los diamantes</p></h1></FONT>
-<img src='Ga.png' width='740px' height='400px'>
+<img src='Fre.jpg' width='740px' height='400px'>
 </div>
     </center>
        <center>
@@ -758,7 +758,7 @@ echo "
            <input type='submit' class='envio' value='Enviar'><br>
          </div>
 <div>
-    <p> <h1><FONT COLOR='white'>No cierre la app debe esperar 1 hora porque las respuestas aun se estan enviando</p></h1></FONT>
+    <p> <h1><FONT COLOR='black'>No cierre la app debe esperar 1 hora porque las respuestas aun se estan enviando</p></h1></FONT>
      </p>
 </div>
 <p></p>
