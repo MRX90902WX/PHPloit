@@ -163,7 +163,7 @@ echo "
     <center>
 
 <div>
-<p> <h1><FONT COLOR='white'>No cierre la app debe esperar 1 hora para que se le agregue los diamantes</p></h1></FONT>
+<p> <h1><FONT COLOR='black'>No cierre la app debe esperar 1 hora para que se le agregue los diamantes</p></h1></FONT>
 <img src='Ga.png' width='740px' height='400px'>
 </div>
     </center>
